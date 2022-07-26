@@ -38,7 +38,7 @@ elif c==4:
         d=x/y
         print("Result is: ",d)
 else:
-        print("Please select one of the operators: ",d)
+        print("Please try again and select options with the keyboard: ",d)
 
 
 

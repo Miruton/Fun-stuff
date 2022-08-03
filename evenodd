@@ -2,12 +2,11 @@ x = int(input("Enter a value: "))
 
 y = x%2
 
-
-print("Value: ",y)
-
 if y==0:
-
+    print("You're beautiful ")
     print('Value',x,'is an even number')
+    
 
 else:
+    print("You're Precious")
     print('Value',x,'is an odd number')

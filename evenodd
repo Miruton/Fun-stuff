@@ -1,0 +1,13 @@
+x = int(input("Enter a value: "))
+
+y = x%2
+
+
+print("Value: ",y)
+
+if y==0:
+
+    print('Value',x,'is an even number')
+
+else:
+    print('Value',x,'is an odd number')
